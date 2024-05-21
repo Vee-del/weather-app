@@ -1,5 +1,5 @@
 // state
-let currCity = "London";
+let currCity = "Nairobi";
 let units = "metric";
 
 // Selectors
